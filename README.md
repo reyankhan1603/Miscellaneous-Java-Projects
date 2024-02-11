@@ -1,2 +1,2 @@
 # Miscellaneous-Java-Projects
-Practice Programs of Java 
+Practice Programs of Java Language.
